@@ -1,1 +1,1 @@
-Pilgrim_Project
+Pilgrim_TypeScript_Project
